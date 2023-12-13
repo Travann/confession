@@ -31,7 +31,7 @@ export default async function handler(
         id: userId,
       },
       data: {
-        hasNotifucation: false,
+        hasNotification: false,
       },
     });
 
